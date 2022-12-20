@@ -1,0 +1,83 @@
+{
+  "books": [
+    {
+      "id": 2,
+      "name": "Beyaz Diş",
+      "author": "Jack London",
+      "categoryId": "1",
+      "isbn": ""
+    },
+    {
+      "id": 3,
+      "name": "Agatha'nın Anahtarı",
+      "author": "Ahmet Ümit",
+      "isbn": "",
+      "categoryId": "3"
+    },
+    {
+      "id": 1663271514987,
+      "name": "Denemeler",
+      "author": "Montaigne",
+      "isbn": "",
+      "categoryId": "2"
+    },
+    {
+      "id": 1663271542955,
+      "name": "Sineklerin Tanrısı",
+      "author": "William Golding",
+      "isbn": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 1663271609013,
+      "name": "Yer Altından Notlar",
+      "author": "Dostoyevski",
+      "isbn": "",
+      "categoryId": "2"
+    },
+    {
+      "id": 1663510942540,
+      "name": "Yaban",
+      "author": "Yakup Kadri Karaosmanoğlu",
+      "isbn": "",
+      "categoryId": "1"
+    },
+    {
+      "id": 1663881260947,
+      "name": "Santranç",
+      "author": "Stefan Zweug",
+      "isbn": "",
+      "categoryId": "2"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Roman"
+    },
+    {
+      "id": 2,
+      "name": "Hikaye"
+    },
+    {
+      "id": 3,
+      "name": "Deneme"
+    },
+    {
+      "id": 4,
+      "name": "Biyografi"
+    },
+    {
+      "id": 1664708827863,
+      "name": "Şiir"
+    },
+    {
+      "id": 1664711563941,
+      "name": "Psikoloji"
+    },
+    {
+      "id": 1664828292738,
+      "name": "Destan-Türk Destanları"
+    }
+  ]
+}
