@@ -1,5 +1,5 @@
 
-<h1>lIBRARY APP</h1>
+<h1>LIBRARY APP</h1>
 
 <h3> GIF - Screen</h3>
 
